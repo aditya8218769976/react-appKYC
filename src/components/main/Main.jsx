@@ -308,7 +308,7 @@ const Main = () => {
           </div>
           <div className="after-modal-row3">
             <div>
-              <table class="table table-hover">
+              <table className="table table-hover">
                 <thead>
                   <tr>
                     <th scope="col">Source</th>
