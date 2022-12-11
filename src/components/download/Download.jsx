@@ -1,4 +1,5 @@
 import React from "react";
+import "../download/Download.css";
 import headerIcon from "../assets/headerIcon.svg";
 import headerRightIcon1 from "../assets/headerRightIcon1.svg";
 import headerRightIcon2 from "../assets/headerRightIcon2.svg";
